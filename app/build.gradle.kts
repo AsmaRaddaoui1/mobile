@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.raddaoui_asma_lsi3_mesure_glycemie"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.raddaoui_asma_lsi3_mesure_glycemie"

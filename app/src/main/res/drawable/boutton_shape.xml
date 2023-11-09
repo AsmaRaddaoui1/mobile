@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- C'est une définition XML de forme -->
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
- <corners android:radius="1000dp" />
-    <solid android:color="@color/bluev2"/>
+<!-- Coins arrondis avec un rayon de 1000dp -->
+<corners android:radius="1000dp" />
+<!-- Remplir la forme avec la couleur définie dans la ressource "bluev2" -->
+<solid android:color="@color/bluev2"/>
 </shape>
